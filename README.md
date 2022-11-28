@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+[![wakatime](https://wakatime.com/badge/user/70becc32-dbbb-46d5-b746-dd9a4d260199.svg)](https://wakatime.com/@70becc32-dbbb-46d5-b746-dd9a4d260199?style=flat)
 
 <!--
 **Eninspace/Eninspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
